@@ -12,4 +12,5 @@ git clone https://github.com/ReonaImagawa/FakeNewsDetection.git
 ```
 Change the path for the .csv file when cloning to local machine.
 
-Reona, Rouhin, Ryan
+## Contributors
+[@ReonaImagawa](https://github.com/ReonaImagawa), [@Rommo123](https:/github.com/Rommo123), [Ryan](https://github.com/404)
