@@ -13,7 +13,7 @@ git clone https://github.com/ReonaImagawa/FakeNewsDetection.git
 Change the path for the .csv file in the .ipynb file when cloning to local machine.
 
 ## Contributors
-[@ReonaImagawa](https://github.com/ReonaImagawa), [@Rommo123](https:/github.com/Rommo123), [@Ryan](https://github.com/404)
+[@ReonaImagawa](https://github.com/ReonaImagawa), [@Rommo123](https:/github.com/Rommo123), [@Ryan](https://github.com/RyanKaradakov)
 
 ## Resources
 - [True/Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data)
