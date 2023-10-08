@@ -18,4 +18,3 @@ Change the path for the .csv file in the .ipynb file when cloning to local machi
 ## Resources
 - [True/Fake News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data)
 - [Python Fake News Detection Guide](https://www.simplilearn.com/tutorials/machine-learning-tutorial/how-to-create-a-fake-news-detection-system)
-- [IDE](https://vscode.dev)
