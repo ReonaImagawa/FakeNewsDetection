@@ -10,7 +10,7 @@ AI Club machine learning project using pandas.
 ```zsh
 git clone https://github.com/ReonaImagawa/FakeNewsDetection.git
 ```
-Change the path for the .csv file when cloning to local machine.
+Change the path for the .csv file in the .ipynb file when cloning to local machine.
 
 ## Contributors
-[@ReonaImagawa](https://github.com/ReonaImagawa), [@Rommo123](https:/github.com/Rommo123), [Ryan](https://github.com/404)
+[@ReonaImagawa](https://github.com/ReonaImagawa), [@Rommo123](https:/github.com/Rommo123), [@Ryan](https://github.com/404)
